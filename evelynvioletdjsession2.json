@@ -1,0 +1,45 @@
+{
+  "pack_name": "Evelyn Violet Breakbeat - Whisnu Santika",
+  "version": 1,
+  "music": "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/WHISNU_SANTIKA_BEAT_OF_DUTCH.mp3",
+  "idle_videos": [
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle1.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle2.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle3.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle4.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle5.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle6.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle7.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle8.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle9.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle10.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle11.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle12.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle13.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle14.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle15.mp4",
+    "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/idle16.mp4"
+  ],
+  "action_videos": {
+    "small": [
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_small1.mp4",
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_small2.mp4",
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_small3.mp4"
+    ],
+    "medium": [
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_medium1.mp4",
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_medium2.mp4",
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_medium3.mp4"
+    ],
+    "big": [
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_big1.mp4",
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_big2.mp4",
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_big3.mp4"
+    ],
+    "mega": [
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_mega1.mp4",
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_mega2.mp4",
+      "https://github.com/prendship96-max/evelynvioletdj-asset/releases/download/v1.0/action_mega3.mp4"
+    ]
+  }
+}
